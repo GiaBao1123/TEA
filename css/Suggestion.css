@@ -1,0 +1,43 @@
+form.d-flex {
+    position: relative;
+    left: 5%;
+}
+
+a.navbar-brand {
+    position: relative;
+    right: 5%;
+}
+
+.form-control {
+    width: 175px;
+}
+
+button.btn {
+    width: 80px;
+}
+
+li.nav-item {
+    text-align: center;
+    width: 120px;
+    padding: 5px;
+    border-radius: 10px;
+    border-bottom: 1px solid rgb(0, 0, 0);
+    border-top: 1px solid rgb(0, 0, 0);
+}
+
+li.nav-item:hover {
+    background-color: rgb(255, 211, 190);
+    transform: translateY(-5px);
+}
+
+ul.navbar-nav {
+    padding: 2px;
+}
+
+a.btn:hover {
+    transform: translateY(-5px);
+}
+
+button.btn:hover {
+    transform: translateY(-5px);
+}
